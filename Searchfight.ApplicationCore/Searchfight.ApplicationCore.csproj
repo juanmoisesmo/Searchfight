@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Searchfight.Infrastructure\Searchfight.Infrastructure.csproj" />
+    <ProjectReference Include="..\Searchfight.Utility\Searchfight.Utility.csproj" />
+  </ItemGroup>
+
+</Project>
